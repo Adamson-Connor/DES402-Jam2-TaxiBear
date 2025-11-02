@@ -1,0 +1,75 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{7B1E45F7-EEC3-41F3-9F9E-28D2FA336B4D}",
+    "Language": "SFX",
+    "Hash": "{C8878FC6-0A08-EFE4-1E19-59551BAAAC68}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "1026822097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Keep Reading or Nobody Understands (Main Theme).wav",
+      "CachePath": "23/{239C7A22-E9AF-B5ED-B907-6520C6FA34A1}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1176409468",
+      "Name": "Correct_Click",
+      "ObjectPath": "\\Events\\Default Work Unit\\Correct_Click",
+      "GUID": "{B341A879-1DC1-4A24-A997-70DAF4ADEF1D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "3779467587",
+      "Name": "Incorrect_Click",
+      "ObjectPath": "\\Events\\Default Work Unit\\Incorrect_Click",
+      "GUID": "{925D99DA-E85C-476F-AA05-E9FC035B6803}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Events\\Default Work Unit\\Music",
+      "GUID": "{A6F98E49-AC75-4A04-8C47-7EB08DBED268}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1026822097"
+       }
+      ]
+     },
+     {
+      "Id": "1664509575",
+      "Name": "UI_Button_Click",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI_Button_Click",
+      "GUID": "{25F9CB92-2814-4D06-9E5D-953B2E66FD1D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B06AC24C-8C04-50B5-C7FF-1F99B2398D4F}"
+ }
+}

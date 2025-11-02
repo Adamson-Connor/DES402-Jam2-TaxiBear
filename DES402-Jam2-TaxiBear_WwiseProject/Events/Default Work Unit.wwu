@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{813947EE-F6D4-4913-8524-8C93B0C2BB32}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{813947EE-F6D4-4913-8524-8C93B0C2BB32}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Music" ID="{A6F98E49-AC75-4A04-8C47-7EB08DBED268}">
+					<ChildrenList>
+						<Action Name="" ID="{373582D8-4EF3-4BCA-8157-0D612E7A641A}" ShortID="754399656">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Keep Reading or Nobody Understands (Main Theme)" ID="{E380558D-FF2E-466E-A11C-6ACB12013D52}" WorkUnitID="{554EE443-5CEA-468A-A146-52DFAE1DF9BB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="UI_Button_Click" ID="{25F9CB92-2814-4D06-9E5D-953B2E66FD1D}"/>
+				<Event Name="Correct_Click" ID="{B341A879-1DC1-4A24-A997-70DAF4ADEF1D}"/>
+				<Event Name="Incorrect_Click" ID="{925D99DA-E85C-476F-AA05-E9FC035B6803}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

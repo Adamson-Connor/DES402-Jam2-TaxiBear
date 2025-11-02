@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "DES402-Jam2-TaxiBear_WwiseProject",
+   "GUID": "{8CD0E6D5-4770-4724-AC9D-CF53FB11DAFF}",
+   "Generator": "2024.1.9.8920"
+  },
+  "CacheRoot": "../../../../DES402-Jam2-TaxiBear_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{5D33A13B-B620-40A6-8079-DD029736676D}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../DES402-Jam2-TaxiBear_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{A7ED92EC-472C-46F1-8B37-AB6B266F4236}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../DES402-Jam2-TaxiBear_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{7C967FA1-219C-46C9-ABE0-B4A7FB33896E}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{CA881FF4-634C-50A9-6174-9653BC5B7755}"
+ }
+}

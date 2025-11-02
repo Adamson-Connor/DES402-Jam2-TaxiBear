@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1176409468	Correct_Click			\Default Work Unit\Correct_Click	
+	1664509575	UI_Button_Click			\Default Work Unit\UI_Button_Click	
+	3779467587	Incorrect_Click			\Default Work Unit\Incorrect_Click	
+	3991942870	Music			\Default Work Unit\Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1026822097	Keep Reading or Nobody Understands (Main Theme)	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\23\{239C7A22-E9AF-B5ED-B907-6520C6FA34A1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Keep Reading or Nobody Understands (Main Theme)		6158060
+
