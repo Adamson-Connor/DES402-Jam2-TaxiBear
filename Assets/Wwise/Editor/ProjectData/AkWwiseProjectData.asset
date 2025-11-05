@@ -66,7 +66,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: ba294b2bfcc8b1469c15f13652766461
     GuidInternal: 
-    m_lastTime: -8584393421239588643
+    m_lastTime: -8584392601709426305
     List:
     - name: Main
       guid: f7451e7bc3eef3419f9e28d2fa336b4d
@@ -94,42 +94,8 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: ee473981d4f6134985248c93b0c2bb32
     GuidInternal: 
-    m_lastTime: -8584393421241307642
+    m_lastTime: -8584392601708964020
     List:
-    - name: Correct_Click
-      guid: 79a841b3c11d244aa99770daf4adef1d
-      id: 1176409468
-      PathAndIcons:
-      - ElementName: Events
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Default Work Unit
-        ObjectType: 12
-        guid: ee473981d4f6134985248c93b0c2bb32
-      - ElementName: Correct_Click
-        ObjectType: 3
-        guid: 79a841b3c11d244aa99770daf4adef1d
-      Path: Events\Default Work Unit\Correct_Click
-      maxAttenuation: 0
-      maxDuration: 0
-      minDuration: 0
-    - name: Incorrect_Click
-      guid: da995d925ce86f47aa05e9fc035b6803
-      id: 3779467587
-      PathAndIcons:
-      - ElementName: Events
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Default Work Unit
-        ObjectType: 12
-        guid: ee473981d4f6134985248c93b0c2bb32
-      - ElementName: Incorrect_Click
-        ObjectType: 3
-        guid: da995d925ce86f47aa05e9fc035b6803
-      Path: Events\Default Work Unit\Incorrect_Click
-      maxAttenuation: 0
-      maxDuration: 0
-      minDuration: 0
     - name: Music
       guid: 498ef9a675ac044a8c477eb08dbed268
       id: 3991942870
@@ -147,9 +113,9 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 0
       minDuration: 0
-    - name: UI_Button_Click
+    - name: Page_Turns
       guid: 92cbf9251428064d9e5d953b2e66fd1d
-      id: 1664509575
+      id: 4018694845
       PathAndIcons:
       - ElementName: Events
         ObjectType: 5
@@ -157,13 +123,13 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: ee473981d4f6134985248c93b0c2bb32
-      - ElementName: UI_Button_Click
+      - ElementName: Page_Turns
         ObjectType: 3
         guid: 92cbf9251428064d9e5d953b2e66fd1d
-      Path: Events\Default Work Unit\UI_Button_Click
+      Path: Events\Default Work Unit\Page_Turns
       maxAttenuation: 0
-      maxDuration: 0
-      minDuration: 0
+      maxDuration: 0.5454649
+      minDuration: 0.34090704
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -221,7 +187,7 @@ MonoBehaviour:
     m_lastTime: -8584393421239568640
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: ff000000000100001101000012010000
+  ExpandedWaapiItemIds: 0500000006000000ff000000000100001101000012010000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

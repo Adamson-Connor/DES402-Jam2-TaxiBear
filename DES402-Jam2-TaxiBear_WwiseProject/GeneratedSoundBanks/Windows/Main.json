@@ -10,11 +10,51 @@
     "Type": "User",
     "GUID": "{7B1E45F7-EEC3-41F3-9F9E-28D2FA336B4D}",
     "Language": "SFX",
-    "Hash": "{C8878FC6-0A08-EFE4-1E19-59551BAAAC68}",
+    "Hash": "{4DEF90E9-D26D-C950-9F84-161688386549}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "Media": [
+     {
+      "Id": "424073222",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Page_Turn_4.wav",
+      "CachePath": "65/{65175369-77DF-6C9E-5C83-45E4C99ABF19}.wem"
+     },
+     {
+      "Id": "495257915",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Page_Turn_1.wav",
+      "CachePath": "A0/{A0FB0E50-CF9E-3D48-7584-2B20B6737CD1}.wem"
+     },
+     {
+      "Id": "538215351",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Page_Turn_5.wav",
+      "CachePath": "F5/{F51C85CC-8170-BEDA-DCAA-BAFA4FD80120}.wem"
+     },
+     {
+      "Id": "676062928",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Page_Turn_3.wav",
+      "CachePath": "F9/{F911A008-8463-9546-D547-27A80F1B1856}.wem"
+     },
+     {
+      "Id": "961471064",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Page_Turn_2.wav",
+      "CachePath": "E7/{E78AB266-9526-5864-29C8-B7E555F0425C}.wem"
+     },
      {
       "Id": "1026822097",
       "Language": "SFX",
@@ -25,26 +65,6 @@
      }
     ],
     "Events": [
-     {
-      "Id": "1176409468",
-      "Name": "Correct_Click",
-      "ObjectPath": "\\Events\\Default Work Unit\\Correct_Click",
-      "GUID": "{B341A879-1DC1-4A24-A997-70DAF4ADEF1D}",
-      "MaxAttenuation": "0",
-      "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
-     },
-     {
-      "Id": "3779467587",
-      "Name": "Incorrect_Click",
-      "ObjectPath": "\\Events\\Default Work Unit\\Incorrect_Click",
-      "GUID": "{925D99DA-E85C-476F-AA05-E9FC035B6803}",
-      "MaxAttenuation": "0",
-      "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
-     },
      {
       "Id": "3991942870",
       "Name": "Music",
@@ -58,18 +78,34 @@
       ]
      },
      {
-      "Id": "1664509575",
-      "Name": "UI_Button_Click",
-      "ObjectPath": "\\Events\\Default Work Unit\\UI_Button_Click",
+      "Id": "4018694845",
+      "Name": "Page_Turns",
+      "ObjectPath": "\\Events\\Default Work Unit\\Page_Turns",
       "GUID": "{25F9CB92-2814-4D06-9E5D-953B2E66FD1D}",
-      "MaxAttenuation": "0",
       "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
+      "DurationMin": "0.34090704",
+      "DurationMax": "0.5454649",
+      "MediaRefs": [
+       {
+        "Id": "424073222"
+       },
+       {
+        "Id": "495257915"
+       },
+       {
+        "Id": "538215351"
+       },
+       {
+        "Id": "676062928"
+       },
+       {
+        "Id": "961471064"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{31B1FA3C-3FDF-6B0B-994D-D6A4F9765A28}"
+  "FileHash": "{F6B7E984-7E28-7F72-43A8-2BFAF1090322}"
  }
 }

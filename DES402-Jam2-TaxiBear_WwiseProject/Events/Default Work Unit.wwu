@@ -14,9 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="UI_Button_Click" ID="{25F9CB92-2814-4D06-9E5D-953B2E66FD1D}"/>
-				<Event Name="Correct_Click" ID="{B341A879-1DC1-4A24-A997-70DAF4ADEF1D}"/>
-				<Event Name="Incorrect_Click" ID="{925D99DA-E85C-476F-AA05-E9FC035B6803}"/>
+				<Event Name="Page_Turns" ID="{25F9CB92-2814-4D06-9E5D-953B2E66FD1D}">
+					<ChildrenList>
+						<Action Name="" ID="{9BCFB78D-2103-42E2-95E9-E731287BE6BC}" ShortID="382129054">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Page_Turns" ID="{385C4D2A-AFCD-4DD8-996F-55F54E798884}" WorkUnitID="{554EE443-5CEA-468A-A146-52DFAE1DF9BB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

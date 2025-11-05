@@ -13,10 +13,8 @@ namespace AK
 {
     namespace EVENTS
     {
-        static const AkUniqueID CORRECT_CLICK = 1176409468U;
-        static const AkUniqueID INCORRECT_CLICK = 3779467587U;
         static const AkUniqueID MUSIC = 3991942870U;
-        static const AkUniqueID UI_BUTTON_CLICK = 1664509575U;
+        static const AkUniqueID PAGE_TURNS = 4018694845U;
     } // namespace EVENTS
 
     namespace BANKS

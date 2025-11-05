@@ -1,9 +1,12 @@
 Event	ID	Name			Wwise Object Path	Notes
-	1176409468	Correct_Click			\Default Work Unit\Correct_Click	
-	1664509575	UI_Button_Click			\Default Work Unit\UI_Button_Click	
-	3779467587	Incorrect_Click			\Default Work Unit\Incorrect_Click	
 	3991942870	Music			\Default Work Unit\Music	
+	4018694845	Page_Turns			\Default Work Unit\Page_Turns	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	424073222	Page_Turn_4	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\65\{65175369-77DF-6C9E-5C83-45E4C99ABF19}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Page_Turns\Page_Turn_4		60232
+	495257915	Page_Turn_1	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\A0\{A0FB0E50-CF9E-3D48-7584-2B20B6737CD1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Page_Turns\Page_Turn_1		96316
+	538215351	Page_Turn_5	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\F5\{F51C85CC-8170-BEDA-DCAA-BAFA4FD80120}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Page_Turns\Page_Turn_5		96316
+	676062928	Page_Turn_3	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\F9\{F911A008-8463-9546-D547-27A80F1B1856}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Page_Turns\Page_Turn_3		84292
+	961471064	Page_Turn_2	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\E7\{E78AB266-9526-5864-29C8-B7E555F0425C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Page_Turns\Page_Turn_2		60232
 	1026822097	Keep Reading or Nobody Understands (Main Theme)	C:\Users\Test\GitHub\DES402-Jam2-TaxiBear\DES402-Jam2-TaxiBear_WwiseProject\.cache\23\{239C7A22-E9AF-B5ED-B907-6520C6FA34A1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Keep Reading or Nobody Understands (Main Theme)		6158060
 

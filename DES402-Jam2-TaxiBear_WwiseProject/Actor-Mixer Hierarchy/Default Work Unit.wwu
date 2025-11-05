@@ -28,6 +28,131 @@
 						<ActiveSource Name="Keep Reading or Nobody Understands (Main Theme)" ID="{217E0A7A-3773-4801-AF15-20CA65635943}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<RandomSequenceContainer Name="Page_Turns" ID="{385C4D2A-AFCD-4DD8-996F-55F54E798884}" ShortID="751996392">
+					<PropertyList>
+						<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Page_Turn_1" ID="{37CAA3FC-A8E8-4085-859A-A0D606ED75B7}" ShortID="602608999">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Page_Turn_1" ID="{B2947AB0-C3CE-4745-B769-C955A5591376}">
+									<Language>SFX</Language>
+									<AudioFile>Page_Turn_1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="495257915"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Page_Turn_1" ID="{B2947AB0-C3CE-4745-B769-C955A5591376}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Page_Turn_2" ID="{A3A8029A-9D0A-4B60-BC58-7C34E9F21B6F}" ShortID="104916461">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Page_Turn_2" ID="{B9AF5020-95A8-4FB7-8B53-8A03AA79E3C3}">
+									<Language>SFX</Language>
+									<AudioFile>Page_Turn_2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="961471064"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Page_Turn_2" ID="{B9AF5020-95A8-4FB7-8B53-8A03AA79E3C3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Page_Turn_3" ID="{23815C4D-EA89-4BBA-953D-1C5A3B2B7C44}" ShortID="449052437">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Page_Turn_3" ID="{AAFF758F-1404-4651-A80A-40900186BF26}">
+									<Language>SFX</Language>
+									<AudioFile>Page_Turn_3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="676062928"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Page_Turn_3" ID="{AAFF758F-1404-4651-A80A-40900186BF26}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Page_Turn_4" ID="{FCB0FC61-6A11-4BCF-93FC-D4D068EB8FD8}" ShortID="134272855">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Page_Turn_4" ID="{96AB32B6-8049-4969-8CF2-240694E9FE53}">
+									<Language>SFX</Language>
+									<AudioFile>Page_Turn_4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="424073222"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Page_Turn_4" ID="{96AB32B6-8049-4969-8CF2-240694E9FE53}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Page_Turn_5" ID="{408F822A-AECB-4095-8DAD-424F24D446B8}" ShortID="656047180">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7FB7C4F6-BFFE-4EAE-8D41-0F5167DDF7A6}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{051F7876-46F4-40C2-AD12-C3D8B18F4D8C}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Page_Turn_5" ID="{C5A98F13-9734-4707-9307-ABFF366BE41E}">
+									<Language>SFX</Language>
+									<AudioFile>Page_Turn_5.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="538215351"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Page_Turn_5" ID="{C5A98F13-9734-4707-9307-ABFF366BE41E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
